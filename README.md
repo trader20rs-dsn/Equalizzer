@@ -1,0 +1,2 @@
+# Equalizzer
+Equalizador de audio
